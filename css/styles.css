@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  color: #40514e;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Amatic SC", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+
+h3 {
+  font-family: "Open Sans", sans-serif;
+  color: #11999e;
+}
+
+hr {
+  border-style: none;
+  width: 5%;
+  border-top-style: dotted;
+  border-width: 7px;
+  border-color: #c5cfcf;
+  margin: 100px auto;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.programmer {
+  font-weight: normal;
+}
+
+.top_container {
+  background-color: #e4f9f5;
+  width: 100%;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 30%;
+  top: 50px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 30%;
+  bottom: 300px;
+}
+
+.self_image {
+  height: 150px;
+  width: 150px;
+}
+
+.comp_image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.farm_image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.contact-button {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #eaf6f6;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 8px 16px;
+  background-color: #66bfbf;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 50px;
+}
+.btn {
+  color: #eaf6f6;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  height: 150px;
+}
+
+.footer-link {
+  color: #11999e;
+  margin: 20px;
+  position: relative;
+  top: 30px;
+  text-decoration: none;
+}
+
+.trade-mark {
+  position: relative;
+  top: 60px;
+  color: EAf6f6;
+}
